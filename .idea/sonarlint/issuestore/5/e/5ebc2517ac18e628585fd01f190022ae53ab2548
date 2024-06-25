@@ -1,0 +1,27 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(•­×Å8»ù„2J$cf26ccf7-2c2f-428c-9c6d-212792b67d6b
+w
+java:S37402"/Provide the parametrized type for this generic.(öÙ±¡úÿÿÿÿ8Ö¶®„2J$34fbb562-6406-42a6-9d3b-69dfb7443490
+w
+java:S3740O"/Provide the parametrized type for this generic.(ó±¤®ÿÿÿÿÿ8Ö¶®„2J$32d8d07b-30db-4e17-adc1-962c14893180
+v
+java:S1874"3Remove this use of "createQuery"; it is deprecated.(•­×Å8İø÷„2J$69f9924f-7513-420e-b0df-882ac4282125
+v
+java:S1874"3Remove this use of "createQuery"; it is deprecated.(ÉÂ¼ï8©ı­„2J$20d6fdef-afc3-4d16-a2b8-e9b5d3329eab
+o
+java:S1602",Remove useless curly braces around statement(·˜ø8ªı­„2J$1b667f35-5b7d-45db-9454-27ba9f509517
+‡
+java:S1612"DReplace this lambda with method reference 'supplierEntityList::add'.(·˜ø8µáŠÂ„2J$20f9d860-4fe0-4569-ab2e-40afe29929f1
+y
+java:S1905)"1Remove this unnecessary cast to "SupplierEntity".(ŸØè şÿÿÿÿ8­ı­„2J$583b455f-1ce5-4ea0-a7d2-16b68598a530
+{
+java:S18742"3Remove this use of "createQuery"; it is deprecated.(öÙ±¡úÿÿÿÿ8ë¶®„2J$37240794-6054-4118-92b3-7282f917ad51
+v
+java:S1874A"3Remove this use of "createQuery"; it is deprecated.(ˆ ³·8ë¶®„2J$dcb76c30-5ea6-4899-b7e5-adbf9884694f
+o
+java:S1602E",Remove useless curly braces around statement(ÇÃ×Ş8ß„ù„2J$612ba449-ff1a-423c-90be-5348147f2e2c
+{
+java:S1612E"8Replace this lambda with method reference 'idList::add'.(ÇÃ×Ş8ß„ù„2J$510c2154-2241-4029-8261-47874d7726e8
+{
+java:S1874O"3Remove this use of "createQuery"; it is deprecated.(ó±¤®ÿÿÿÿÿ8à„ù„2J$1504cbd9-5a91-4ac4-9e86-384090d56071

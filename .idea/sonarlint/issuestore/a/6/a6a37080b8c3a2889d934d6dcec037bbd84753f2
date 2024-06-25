@@ -1,0 +1,51 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(”»€úÿÿÿÿ8¯â¶Ä„2J$0746014c-5536-46aa-959c-a14bdd7643f9
+r
+java:S3740"/Provide the parametrized type for this generic.(³¨º8¯â¶Ä„2J$c38a66db-4999-4f57-86de-0b47475c3d63
+w
+java:S3740"/Provide the parametrized type for this generic.(¾ˆ­úÿÿÿÿ8¯â¶Ä„2J$2d62528b-7b12-4ba5-8d70-e129e1e24385
+w
+java:S3740"/Provide the parametrized type for this generic.(šó¯”ùÿÿÿÿ8¯â¶Ä„2J$a72a92e5-79a6-445b-b14b-26d6c0b2a812
+w
+java:S3740"/Provide the parametrized type for this generic.(›¿ùğùÿÿÿÿ8¯â¶Ä„2J$eade6e89-5cd4-4533-8bb6-0ba04dd0e5d1
+r
+java:S3740""/Provide the parametrized type for this generic.(êÆö™8¯â¶Ä„2J$b8b904b8-dede-4be6-8156-f0ecc9664177
+k
+java:S16042"(Make this anonymous inner class a lambda(å¢ç¯8°â¶Ä„2J$7c006f1c-c16b-403d-a2bc-14f355e2de75
+¤
+java:S14885"\Immediately return this expression instead of assigning it to the temporary variable "cell".(ìÑíşÿÿÿÿ8²â¶Ä„2J$76fcee26-0b5d-41c2-8f3f-70e77799b1a3
+¡
+java:S1104"YMake companyColumn a static final constant or non-public and provide accessors if needed.(”»€úÿÿÿÿ8²â¶Ä„2J$ba01e9ec-49a6-411c-891a-61ab399fcb97
+¢
+java:S1104"_Make supplierEmailColumn a static final constant or non-public and provide accessors if needed.(³¨º8²â¶Ä„2J$21718b86-125b-4020-9c7f-49eb9b1150a9
+¦
+java:S1104"^Make supplierNameColumn a static final constant or non-public and provide accessors if needed.(¾ˆ­úÿÿÿÿ8²â¶Ä„2J$46f5ef78-a1e6-4f68-b79d-ea560950cea2
+¤
+java:S1104"\Make supplierIdColumn a static final constant or non-public and provide accessors if needed.(šó¯”ùÿÿÿÿ8²â¶Ä„2J$f99ee2b8-5700-492f-b37d-d59445652098
+¢
+java:S1104"ZMake addSupplierBtn a static final constant or non-public and provide accessors if needed.(İ××şÿÿÿÿ8²â¶Ä„2J$f9c52d74-4745-4c36-89d4-bdf4188386e9
+¡
+java:S1104"YMake supplierTable a static final constant or non-public and provide accessors if needed.(›¿ùğùÿÿÿÿ8²â¶Ä„2J$a02b06dd-2784-4516-a347-849778915bd1
+
+java:S1104"VMake companyTxt a static final constant or non-public and provide accessors if needed.(•øÆ®øÿÿÿÿ8²â¶Ä„2J$6f97d93a-2166-4475-812b-7125ea7a6ffb
+£
+java:S1104"[Make supplierNameTxt a static final constant or non-public and provide accessors if needed.(¢¹—Òùÿÿÿÿ8²â¶Ä„2J$d3c507ef-8c79-4bcf-ac0e-00b00e0e930c
+Ÿ
+java:S1104 "\Make supplierEmailTxt a static final constant or non-public and provide accessors if needed.(æÜ²½8²â¶Ä„2J$107094b1-82b8-45c0-a9dd-851c01681367
+¡
+java:S1104!"YMake supplierIdTxt a static final constant or non-public and provide accessors if needed.(Ïç—­ıÿÿÿÿ8²â¶Ä„2J$dc982fb0-a842-428d-a989-574f1df91c9b
+›
+java:S1104""XMake actionColumn a static final constant or non-public and provide accessors if needed.(êÆö™8²â¶Ä„2J$fd17d57d-332f-449c-b27d-2125b01fd14c
+
+java:S1104#"VMake updateBtn2 a static final constant or non-public and provide accessors if needed.(¹‘äçûÿÿÿÿ8²â¶Ä„2J$e85b0195-264a-46fd-b85b-cc215952bd49
+r	java:S106*"+Replace this use of System.out by a logger.(şÅÇÛùÿÿÿÿ8Óâ¶Ä„2J$7e5d68db-3673-4f0a-a494-a2b6f5163520
+¡
+java:S1171:"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Úâ¶Ä„2J$1d189c8c-d80e-498f-85bf-318cdaf6dcea
+t
+java:S1172d"2Remove this unused method parameter "actionEvent".(• š8áâ¶Ä„2J$dab0b486-deb6-441e-8e3d-0a9f5fad9726
+
+java:S2159e"VRemove this call to "equals"; comparisons between unrelated types always return false.(ã¦óüÿÿÿÿ8ãâ¶Ä„2J$03ac6f93-8895-4f02-b59c-3a771210b909
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(³ú•W8åâ¶Ä„2J$e810307f-5ed5-4583-b8d1-44b4b227dfe4
+n	java:S106‡"+Replace this use of System.out by a logger.(şêû®8åâ¶Ä„2J$5af2450e-2bbe-46bb-bd80-9c312bd62666

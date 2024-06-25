@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="598.0" prefWidth="906.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.demo.controller.ViewCustomerFormController">
+   <children>
+      <Pane layoutX="-1.0" layoutY="-2.0" prefHeight="78.0" prefWidth="907.0" styleClass="linear-backgorund" stylesheets="@../style/style.css">
+         <children>
+            <Label layoutX="290.0" layoutY="20.0" text="View Customers" textFill="WHITE">
+               <font>
+                  <Font name="Candara Bold Italic" size="38.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <JFXButton graphicTextGap="0.0" layoutX="759.0" layoutY="521.0" onAction="#backBtnOnAction" prefHeight="39.0" prefWidth="92.0" style="-fx-background-color: black;" text="Back" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </JFXButton>
+      <TableView fx:id="customerTable" layoutX="167.0" layoutY="105.0" prefHeight="388.0" prefWidth="588.0">
+         <columns>
+            <TableColumn fx:id="custIdColumn" prefWidth="106.40005493164062" text="Id" />
+            <TableColumn fx:id="custNameColumn" prefWidth="140.0" text="Name" />
+            <TableColumn fx:id="custEmailColumn" minWidth="0.0" prefWidth="222.40005493164062" text="Email" />
+            <TableColumn fx:id="cityColumn" prefWidth="122.4000244140625" text="City" />
+         </columns>
+      </TableView>
+   </children>
+</AnchorPane>

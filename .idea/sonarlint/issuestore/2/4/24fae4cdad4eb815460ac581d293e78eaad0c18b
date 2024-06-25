@@ -1,0 +1,7 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(®ßüÿÿÿÿ8’ÒÃ„2J$64c0be44-f321-4753-9f5c-83944c3aab11
+r	java:S106"+Replace this use of System.out by a logger.(¶„œüÿÿÿÿ8‚’ÒÃ„2J$56f93113-7954-440b-a825-a80125cc52d5
+t
+java:S1602*",Remove useless curly braces around statement(„€—¤ûÿÿÿÿ8…’ÒÃ„2J$c426606f-8508-47fe-9bef-e90e66ad6078
+Y
+java:S1128"<Remove this unused import 'edu.icet.demo.entity.UserEntity'.(›É“´8—¶ü…2

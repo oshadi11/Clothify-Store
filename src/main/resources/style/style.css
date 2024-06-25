@@ -1,0 +1,18 @@
+.linear-backgorund{
+	-fx-background-color: linear-gradient(to right,#4faec6,#269dd2);
+		
+}
+
+.cards{
+	-fx-background-color: #3c4a54;
+}
+.remove-button {
+    -fx-background-color: #e53935;
+    -fx-text-fill: white;
+    -fx-font-weight: bold; 
+}
+.update-button {
+    -fx-background-color: #23b031; 
+    -fx-text-fill: white; 
+    -fx-font-weight: bold; 
+}

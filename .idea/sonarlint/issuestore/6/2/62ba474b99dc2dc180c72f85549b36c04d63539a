@@ -1,0 +1,15 @@
+
+œ
+java:S1104"ZMake adminDashboard a static final constant or non-public and provide accessors if needed.(øèî8ê¡•„2J$9f3be9f4-bd9e-4f2d-806e-79c13af97f4e
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ëŞ‚•8ÚÔÈî„2J$c2ed51dc-9bad-48fe-80ec-c7aafbf0b269
+É
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷Äê®úÿÿÿÿ8ÑŸÉî„2J$6728a22a-6ce3-4d23-88d9-74885e325eef
+Œ
+java:S1128"DRemove this unused import 'edu.icet.demo.bo.custom.impl.UserBoImpl'.(°òËÊùÿÿÿÿ8ñ¡•„2J$b79d0938-6360-4c5a-859d-ad671a0ebb27
+s
+java:S1128"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8ñ¡•„2J$5cc94c92-bc1f-4f1b-b276-8f15136d0668
+r
+java:S1128"/Remove this unused import 'javafx.scene.Scene'.(Õü²8ñ¡•„2J$404d897d-f665-4c14-b5bf-15ea126cb988
+w
+java:S1128	"/Remove this unused import 'javafx.stage.Stage'.(æÄ¸²úÿÿÿÿ8ñ¡•„2J$0d3601aa-972e-43ec-be4b-0e7bc215c57f

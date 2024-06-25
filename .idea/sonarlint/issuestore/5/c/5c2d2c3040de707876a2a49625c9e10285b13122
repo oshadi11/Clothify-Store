@@ -1,0 +1,45 @@
+
+k
+java:S1604>"(Make this anonymous inner class a lambda(Üƒó’8‘ ¸Ä„2J$19d065d6-4a4f-4f3e-978d-87177124e867
+Ÿ
+java:S1488A"\Immediately return this expression instead of assigning it to the temporary variable "cell".(‡×¢Ï8” ¸Ä„2J$b90a8452-4692-497b-80e1-052f9fe7adb4
+š
+java:S1104"RMake ageCmb a static final constant or non-public and provide accessors if needed.(å±©‡øÿÿÿÿ8” ¸Ä„2J$16e96401-32a0-4e2f-bdee-f818d015f8e1
+¤
+java:S1104"\Make employeeEmailTxt a static final constant or non-public and provide accessors if needed.(ÌãµËùÿÿÿÿ8• ¸Ä„2J$b9d38ca4-fec9-4c95-b7c4-4b4c4f410d0e
+š
+java:S1104"WMake passwordTxt a static final constant or non-public and provide accessors if needed.(ƒ€ôÅ8• ¸Ä„2J$42bba528-c45f-4189-84f2-c621b195ab47
+£
+java:S1104"[Make employeeNameTxt a static final constant or non-public and provide accessors if needed.(š¸ñ£úÿÿÿÿ8• ¸Ä„2J$3a589ff1-90fe-4cae-b65b-39c3a465a9e9
+–
+java:S1104"SMake CityTxt a static final constant or non-public and provide accessors if needed.(³ë¢ø8• ¸Ä„2J$3dac9bc3-321b-46dd-8412-caadbb05f849
+™
+java:S1104"VMake employeeId a static final constant or non-public and provide accessors if needed.(´ïûË8• ¸Ä„2J$f00e18c8-e65d-4915-aad6-e0540f4a9c14
+Ÿ
+java:S1104"WMake registerBtn a static final constant or non-public and provide accessors if needed.(Ó¢ºñÿÿÿÿÿ8• ¸Ä„2J$eb559d74-138f-4504-ab9e-a56fd5079599
+¤
+java:S1104 "\Make registerBlackBtn a static final constant or non-public and provide accessors if needed.(˜³—êüÿÿÿÿ8• ¸Ä„2J$bf45b657-102c-4d7f-9327-2f3a359aaec4
+œ
+java:S1104!"YMake employeeTable a static final constant or non-public and provide accessors if needed.(ÆŠ€8• ¸Ä„2J$14dd9568-8ff4-4859-b38f-5b0f02ca8f6f
+Ÿ
+java:S1104""\Make employeeIdColumn a static final constant or non-public and provide accessors if needed.(Â´ÏÜ8• ¸Ä„2J$fdde3dbb-9169-4486-9d4f-236a7344ca3a
+¡
+java:S1104#"^Make employeeNameColumn a static final constant or non-public and provide accessors if needed.(—ÀŸ®8• ¸Ä„2J$d8422dc6-9f8c-4cac-a310-044cdb74f9d4
+§
+java:S1104$"_Make employeeEmailColumn a static final constant or non-public and provide accessors if needed.(¹Ã­ ÿÿÿÿÿ8• ¸Ä„2J$4825fac5-76a4-4c38-98c2-5163ea8ec581
+¥
+java:S1104%"]Make employeeAgeColumn a static final constant or non-public and provide accessors if needed.(—ÜÁ©şÿÿÿÿ8• ¸Ä„2J$e75b64ad-01c1-45cb-a62d-7114060070dd
+¦
+java:S1104&"^Make employeeCityColumn a static final constant or non-public and provide accessors if needed.(¦‘ñ¬üÿÿÿÿ8• ¸Ä„2J$b4166f09-9e44-4205-87a9-7bfad54e2f61
+˜
+java:S1104'"UMake actionCol a static final constant or non-public and provide accessors if needed.(”¹›8• ¸Ä„2J$8b405310-21e3-4c66-bca8-e1437a48f21f
+¢
+java:S1104("ZMake updateblackBtn a static final constant or non-public and provide accessors if needed.(÷„ÄËúÿÿÿÿ8• ¸Ä„2J$caebd281-5339-4ae6-a04a-0eb08b1132c7
+”	java:S116"RRename this field "CityTxt" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ë¢ø8­ ¸Ä„2J$17898062-558b-45d9-a2bb-b253c4159652
+¡
+java:S1171F"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¸ ¸Ä„2J$be87a00c-ae22-428d-9230-1eda7754884a
+z
+java:S1172p"2Remove this unused method parameter "actionEvent".(–ù±¢ıÿÿÿÿ8½ ¸Ä„2J$d2df22e6-75f4-4797-abaf-ebaff6011647
+{
+java:S1172"2Remove this unused method parameter "actionEvent".(£Ïäúÿÿÿÿ8¿ ¸Ä„2J$bcad18a7-7a89-4a9a-ae72-4fce0c387644
+n	java:S106™"+Replace this use of System.out by a logger.(şêû®8À ¸Ä„2J$1a656ede-df63-4020-9e25-bae176bab1a6

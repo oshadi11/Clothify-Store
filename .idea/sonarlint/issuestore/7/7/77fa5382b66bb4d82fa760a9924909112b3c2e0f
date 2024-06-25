@@ -1,0 +1,38 @@
+
+w
+java:S3740,"/Provide the parametrized type for this generic.(ÀÎÔ‡ùÿÿÿÿ8éÍ Æ„2J$42e0feac-3200-46ef-8844-6ed8bc2bacea
+w
+java:S3740>"/Provide the parametrized type for this generic.(›‘ñ–şÿÿÿÿ8êÍ Æ„2J$f9e38af9-5e58-4196-8319-f39d2c638bf7
+w
+java:S3740K"/Provide the parametrized type for this generic.(Ô·ôÓûÿÿÿÿ8êÍ Æ„2J$26e53bd2-f1d7-487c-b1c4-925c40278a76
+w
+java:S3740U"/Provide the parametrized type for this generic.(Òè–Ùıÿÿÿÿ8êÍ Æ„2J$7ea83b1f-36e3-490b-9199-5c45b41c4669
+w
+java:S3740e"/Provide the parametrized type for this generic.(Òè–Ùıÿÿÿÿ8êÍ Æ„2J$d137a555-2c84-4975-ad98-628c059471f9
+«
+java:S4144b"cUpdate this method so that its implementation is not identical to "getCustomersByEmpId" on line 82.(ÆĞªèùÿÿÿÿ8ä†Âë„2J$58e20a3b-4ada-4cb6-bde5-94f02e2c4f51
+v
+java:S1874"3Remove this use of "createQuery"; it is deprecated.(™¿…¾8ÌÉŸÆ„2J$bf4b6413-bd69-4c64-a600-64b9bf2477b8
+o
+java:S1602",Remove useless curly braces around statement(§ğ§ì8ùË—Æ„2J$5cb5e00c-1214-43f3-9b14-05dd116f1207
+‡
+java:S1612"DReplace this lambda with method reference 'customerEntityList::add'.(§ğ§ì8ì†Âë„2J$465c50ea-c561-4267-9af5-d2dc83b22053
+{
+java:S1874,"3Remove this use of "createQuery"; it is deprecated.(ÀÎÔ‡ùÿÿÿÿ8ÎÉŸÆ„2J$8b713723-59e3-4f67-b121-0427ab15ea38
+{
+java:S1874>"3Remove this use of "createQuery"; it is deprecated.(›‘ñ–şÿÿÿÿ8ÏÉŸÆ„2J$ea2baf7b-029b-41cb-98a3-9c4340d0e047
+{
+java:S1874K"3Remove this use of "createQuery"; it is deprecated.(Ô·ôÓûÿÿÿÿ8ĞÉŸÆ„2J$fbcf200e-79c2-47a3-9716-02d8c95fae5f
+r	java:S106M"+Replace this use of System.out by a logger.(•Ôøÿÿÿÿ8‚¢ßë„2J$de12a200-5244-4881-bdbd-21a562ddf031
+{
+java:S1874U"3Remove this use of "createQuery"; it is deprecated.(Òè–Ùıÿÿÿÿ8ĞÉŸÆ„2J$bb94ff87-c44f-4640-9450-76f06fd2fd01
+o
+java:S1602\",Remove useless curly braces around statement(§ğ§ì8„Ì—Æ„2J$5ecb074d-95f5-4a2f-a535-8be8ebdde76b
+‡
+java:S1612\"DReplace this lambda with method reference 'customerEntityList::add'.(§ğ§ì8ò†Âë„2J$769018e3-050b-4ce9-82ed-07afdf251788
+{
+java:S1874e"3Remove this use of "createQuery"; it is deprecated.(Òè–Ùıÿÿÿÿ8ÑÉŸÆ„2J$40e9589d-6805-45c6-9556-fc797ba3414a
+o
+java:S1602l",Remove useless curly braces around statement(§ğ§ì8…Ì—Æ„2J$017e7796-fabf-49ad-950f-5037e9ceab94
+‡
+java:S1612l"DReplace this lambda with method reference 'customerEntityList::add'.(§ğ§ì8ó†Âë„2J$3cbf15b8-0fd1-444e-82d4-739e5a53f2f6

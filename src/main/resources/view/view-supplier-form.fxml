@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="578.0" prefWidth="792.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.demo.controller.ViewSupplierFormController">
+   <children>
+      <Pane prefHeight="78.0" prefWidth="792.0" styleClass="linear-backgorund" stylesheets="@../style/style.css">
+         <children>
+            <Label layoutX="290.0" layoutY="20.0" text="View suppliers" textFill="WHITE">
+               <font>
+                  <Font name="Candara Bold Italic" size="38.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <TableView fx:id="supplierTable" layoutX="102.0" layoutY="108.0" prefHeight="388.0" prefWidth="588.0">
+         <columns>
+            <TableColumn fx:id="supplierIdColumn" prefWidth="100.79998779296875" text="Id" />
+            <TableColumn fx:id="supplierNameColumn" prefWidth="131.20001220703125" text="Name" />
+            <TableColumn fx:id="supplierEmailColumn" minWidth="0.0" prefWidth="207.20001220703125" text="Email" />
+            <TableColumn fx:id="companyColumn" prefWidth="150.39996337890625" text="Company" />
+         </columns>
+      </TableView>
+      <JFXButton graphicTextGap="0.0" layoutX="666.0" layoutY="515.0" onAction="#backBtnOnAction" prefHeight="39.0" prefWidth="92.0" style="-fx-background-color: black;" text="Back" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>

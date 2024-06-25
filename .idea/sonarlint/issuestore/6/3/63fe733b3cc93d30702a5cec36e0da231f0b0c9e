@@ -1,0 +1,56 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(êÆö™8òÌï×„2J$deb59792-4eb6-4851-87c2-fc2b795450c5
+w
+java:S3740"/Provide the parametrized type for this generic.(èÿúışÿÿÿÿ8óÌï×„2J$6c2bdace-0d91-4547-bfbd-083cd231df7b
+q
+java:S3740"/Provide the parametrized type for this generic.(¹ë™'8óÌï×„2J$87df4fc9-dc01-4236-8d23-c5186ecd74d1
+w
+java:S3740"/Provide the parametrized type for this generic.(Õ˜Æ¥ùÿÿÿÿ8óÌï×„2J$dc190c7f-16e8-47f0-94bb-4937d34d1586
+w
+java:S3740"/Provide the parametrized type for this generic.(Æü®ïùÿÿÿÿ8‚§Âê„2J$1ec73c01-4861-440b-94f7-656773e2923c
+r
+java:S3740%"/Provide the parametrized type for this generic.(âˆÅ˜8óÌï×„2J$b2a86f99-a97f-4181-b93c-65b2e8969fcd
+k
+java:S16041"(Make this anonymous inner class a lambda(ÂŒ÷Ã8«¹½ê„2J$948d3108-8ea8-4197-abc7-e09ff26be146
+Ÿ
+java:S14884"\Immediately return this expression instead of assigning it to the temporary variable "cell".(µ¶Äé8­¹½ê„2J$2a030847-529e-4dc4-be29-aafa8d619d6e
+
+java:S1104"VMake updateBtn2 a static final constant or non-public and provide accessors if needed.(¹‘äçûÿÿÿÿ8ôÌï×„2J$2fcdb25b-6585-4943-91ae-9e438a3fb759
+›
+java:S1104"XMake actionColumn a static final constant or non-public and provide accessors if needed.(êÆö™8ôÌï×„2J$8aee4dee-face-4df0-b7fb-07b308449858
+
+java:S1104"VMake cityColumn a static final constant or non-public and provide accessors if needed.(èÿúışÿÿÿÿ8ôÌï×„2J$860e00ce-09b2-4084-8a32-bec8f25f7685
+
+java:S1104"[Make custEmailColumn a static final constant or non-public and provide accessors if needed.(¹ë™'8‡§Âê„2J$c63196b5-f32d-4761-a866-60d1575d0fda
+¢
+java:S1104"ZMake custNameColumn a static final constant or non-public and provide accessors if needed.(Õ˜Æ¥ùÿÿÿÿ8€ƒÂê„2J$0e0c9b0a-0555-4182-9f7e-66f7b2b26304
+ 
+java:S1104"XMake custIdColumn a static final constant or non-public and provide accessors if needed.(Æü®ïùÿÿÿÿ8ôÌï×„2J$f919f75c-f082-49d3-9b4e-d98cd7a4b7f6
+˜
+java:S1104 "UMake custIdTxt a static final constant or non-public and provide accessors if needed.(ğ¾Ä˜8ôÌï×„2J$a4707777-ae72-4cfa-9b21-844fda8537b4
+ 
+java:S1104!"XMake custEmailTxt a static final constant or non-public and provide accessors if needed.(­ùæ½øÿÿÿÿ8ôÌï×„2J$58f78755-2d1b-4c09-8fe0-e0137cd66609
+š
+java:S1104""WMake custNameTxt a static final constant or non-public and provide accessors if needed.(÷‰ıÓ8ôÌï×„2J$810ba7f1-833d-4b65-8c9d-accf0e4114b5
+–
+java:S1104#"SMake cityTxt a static final constant or non-public and provide accessors if needed.(ÿû»–8ôÌï×„2J$32a3da8c-9097-4e61-94e6-3b96b4836cb1
+
+java:S1104$"ZMake addCustomerBtn a static final constant or non-public and provide accessors if needed.(­€á±8ôÌï×„2J$b87aa637-7740-42ee-a6e7-4209b979c450
+œ
+java:S1104%"YMake customerTable a static final constant or non-public and provide accessors if needed.(âˆÅ˜8ôÌï×„2J$fc548b17-01cb-4330-bbe3-4188d1cacf20
+¡
+java:S11719"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8„º½ê„2J$e3a6bc06-bd8f-45d4-9ee0-6f7f095dab04
+t
+java:S1172g"2Remove this unused method parameter "actionEvent".(³ú•W8€Íï×„2J$ee8837c0-d5ac-4c39-97fc-8e8a1121ccbe
+m	java:S106m"+Replace this use of System.out by a logger.(şêû®8ÔÛıì„2J$a01df9a5-5a8c-4964-b359-d6da07ef64d2
+u
+java:S1172"2Remove this unused method parameter "actionEvent".(âãü”8ÖÛıì„2J$4fd1674d-b57d-4df9-a39b-5d36f7944634
+
+java:S1128"?Remove this unused import 'edu.icet.demo.bo.custom.CustomerBo'.(ı™²:8šî‡í„2J$347b65aa-efe5-4d63-af14-d0e61fda99be
+
+java:S1128"HRemove this unused import 'edu.icet.demo.bo.custom.impl.SupplierBoImpl'.(æ—™¬úÿÿÿÿ8›î‡í„2J$1e87461b-2dcb-4245-a5f6-f18a5db7217e
+‰
+java:S1128	"ARemove this unused import 'edu.icet.demo.dao.custom.CustomerDao'.(É²Œûÿÿÿÿ8›î‡í„2J$0dc39fa1-9cac-4b1d-8368-303d12caf981
+
+java:S1128"9Remove this unused import 'edu.icet.demo.model.Supplier'.(æë¸‡ùÿÿÿÿ8›î‡í„2J$fada2096-18e1-4c99-98b0-464acc8e4b03

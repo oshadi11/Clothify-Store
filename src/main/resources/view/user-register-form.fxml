@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXComboBox?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="611.0" prefWidth="959.0" stylesheets="@../style/style.css" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.demo.controller.UserRegisterFormController">
+   <children>
+      <Pane prefHeight="84.0" prefWidth="959.0" styleClass="linear-backgorund" stylesheets="@../style/style.css">
+         <children>
+            <Label layoutX="290.0" layoutY="20.0" text="Manage Employees" textFill="WHITE">
+               <font>
+                  <Font name="Candara Bold Italic" size="38.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <JFXTextField fx:id="employeeId" editable="false" focusColor="#549bde" layoutX="132.0" layoutY="107.0" prefHeight="38.0" prefWidth="148.0" unFocusColor="#549bde">
+         <font>
+            <Font size="16.0" />
+         </font>
+      </JFXTextField>
+      <Label layoutX="16.0" layoutY="119.0" prefHeight="27.0" prefWidth="122.0" text="Employee Id">
+         <font>
+            <Font name="System Bold Italic" size="18.0" />
+         </font>
+      </Label>
+      <JFXTextField fx:id="employeeEmailTxt" focusColor="#549bde" layoutX="18.0" layoutY="241.0" prefHeight="26.0" prefWidth="197.0" promptText="Email" unFocusColor="#549bde">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXTextField>
+      <JFXPasswordField fx:id="passwordTxt" focusColor="#549bde" layoutX="19.0" layoutY="299.0" prefHeight="26.0" prefWidth="198.0" promptText="Password" unFocusColor="#549bde">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXPasswordField>
+      <JFXTextField fx:id="employeeNameTxt" focusColor="#549bde" layoutX="17.0" layoutY="181.0" prefHeight="26.0" prefWidth="197.0" promptText="Name" unFocusColor="#549bde">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXTextField>
+      <JFXComboBox fx:id="ageCmb" focusColor="#549bde" layoutX="19.0" layoutY="358.0" prefHeight="26.0" prefWidth="198.0" promptText="Age" unFocusColor="#549bde" />
+      <JFXTextField fx:id="CityTxt" focusColor="#549bde" layoutX="17.0" layoutY="412.0" prefHeight="26.0" prefWidth="197.0" promptText="City" unFocusColor="#549bde">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </JFXTextField>
+      <JFXButton fx:id="registerBtn" graphicTextGap="0.0" layoutX="16.0" layoutY="511.0" onAction="#registerBtnOnAction" prefHeight="39.0" prefWidth="92.0" style="-fx-background-color: #549bde;" text="Register" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </JFXButton>
+      <JFXButton fx:id="updateblackBtn" graphicTextGap="0.0" layoutX="16.0" layoutY="511.0" onAction="#updateEmployeeBtnOnAction" prefHeight="39.0" prefWidth="112.0" style="-fx-background-color: #549bde;" text="Update " textFill="WHITE" visible="false">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </JFXButton>
+      <JFXButton graphicTextGap="0.0" layoutX="853.0" layoutY="515.0" onAction="#backBtnOnAction" prefHeight="39.0" prefWidth="92.0" style="-fx-background-color: black;" text="Back" textFill="WHITE">
+         <font>
+            <Font name="System Bold Italic" size="15.0" />
+         </font>
+      </JFXButton>
+      <ScrollPane layoutX="289.0" layoutY="106.0">
+         <content>
+            <TableView fx:id="employeeTable" prefHeight="388.0" prefWidth="664.0">
+              <columns>
+                <TableColumn fx:id="employeeIdColumn" prefWidth="100.79998779296875" text="Id" />
+                <TableColumn fx:id="employeeNameColumn" prefWidth="101.60003662109375" text="Name" />
+                  <TableColumn fx:id="employeeEmailColumn" prefWidth="156.8000030517578" text="Email" />
+                  <TableColumn fx:id="employeeAgeColumn" prefWidth="59.20001220703125" text="Age" />
+                  <TableColumn fx:id="employeeCityColumn" prefWidth="92.00006103515625" text="City" />
+                  <TableColumn fx:id="actionCol" prefWidth="160.7999267578125" text="Action" />
+              </columns>
+            </TableView>
+         </content>
+      </ScrollPane>
+   </children>
+</AnchorPane>
