@@ -92,7 +92,6 @@ public class ManageOrderFormController implements Initializable {
                         qty,
                         product.getPrice()*qty
                 );
-                System.out.println(orderItem);
                 totalCost+=product.getPrice()*qty;
                 cartList.add(orderItem);
                 productQtyTxt.setText("");
