@@ -14,6 +14,18 @@ public class ProductDaoImpl implements ProductDao {
 
 
     @Override
+    public ProductEntity search(String s) {
+        Session session = HibernateUtil.getSession();
+        session.getTransaction().begin();
+        Query query = session.createQuery("FROM product WHERE id=:id");
+        query.setParameter("id",s);
+        ProductEntity product = (ProductEntity) query.uniqueResult();
+        session.close();
+
+        return product;
+    }
+
+    @Override
     public ObservableList<ProductEntity> searchAll() {
         Session session = HibernateUtil.getSession();
         session.getTransaction().begin();
@@ -124,5 +136,18 @@ public class ProductDaoImpl implements ProductDao {
 
         return productEntities;
     }
+
+    public boolean updateQtyOfProduct(String id, int qty) {
+        Session session = HibernateUtil.getSession();
+        session.getTransaction().begin();
+        Query query = session.createQuery("UPDATE product SET qty=qty+:qty WHERE id=:id");
+        query.setParameter("qty",qty);
+        query.setParameter("id",id);
+        int i = query.executeUpdate();
+        session.getTransaction().commit();
+        session.close();
+        return i>0;
+    }
+
 }
 

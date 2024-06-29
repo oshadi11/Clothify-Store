@@ -3,10 +3,13 @@ package edu.icet.demo.controller;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXComboBox;
 import com.jfoenix.controls.JFXTextField;
+import edu.icet.demo.bo.BoFactory;
+import edu.icet.demo.bo.custom.impl.CustomerBoImpl;
 import edu.icet.demo.bo.custom.impl.ProductBoImpl;
 import edu.icet.demo.bo.custom.impl.SupplierBoImpl;
 import edu.icet.demo.model.Customer;
 import edu.icet.demo.model.Product;
+import edu.icet.demo.util.BoType;
 import javafx.collections.FXCollections;
 import javafx.event.ActionEvent;
 import javafx.fxml.Initializable;
@@ -15,6 +18,7 @@ import javafx.scene.control.cell.PropertyValueFactory;
 import javafx.scene.layout.HBox;
 import javafx.util.Callback;
 
+import java.io.IOException;
 import java.net.URL;
 import java.util.Optional;
 import java.util.ResourceBundle;
@@ -37,12 +41,13 @@ public class ManageProductFormController implements Initializable {
     public JFXTextField proudctPrice;
     public JFXComboBox SupplierIdCmb;
     public JFXButton updateBtn2;
-    ProductBoImpl productBoImpl = new ProductBoImpl();
-    SupplierBoImpl supplierBoImpl = new SupplierBoImpl();
+    ProductBoImpl productBoImpl = BoFactory.getInstance().getBo(BoType.PRODUCT);
+    SupplierBoImpl supplierBoImpl = BoFactory.getInstance().getBo(BoType.SUPPLIER);
     SceneSwitchController sceneSwitch = SceneSwitchController.getInstance();
 
 
-    public void backBtnOnAction(ActionEvent actionEvent) {
+    public void backBtnOnAction(ActionEvent actionEvent) throws IOException {
+        SceneSwitchController.getInstance().switchScene(actionEvent,"user-dashboard-form.fxml");
     }
 
     public void addProductBtnOnAction(ActionEvent actionEvent) {
@@ -81,7 +86,7 @@ public class ManageProductFormController implements Initializable {
     public void initialize(URL url, ResourceBundle resourceBundle) {
         SupplierIdCmb.setItems(supplierBoImpl.getAllSupplierIds());
 
-        productCategoryCmb.setItems(FXCollections.observableArrayList("Ladies","Gents","Kids"));
+        productCategoryCmb.setItems(FXCollections.observableArrayList("Ladies","Gents","Kids","Unisex"));
         productIdTxt.setText(productBoImpl.generateProductId());
         prductIdColumn.setCellValueFactory(new PropertyValueFactory<>("id"));
         productNameColumn.setCellValueFactory(new PropertyValueFactory<>("name"));

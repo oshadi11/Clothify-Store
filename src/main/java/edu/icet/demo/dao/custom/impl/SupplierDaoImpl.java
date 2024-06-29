@@ -20,6 +20,12 @@ public class SupplierDaoImpl implements SupplierDao {
         session.close();
         return id;
     }
+
+    @Override
+    public SupplierEntity search(String s) {
+        return null;
+    }
+
     @Override
     public ObservableList<SupplierEntity> searchAll() {
         Session session = HibernateUtil.getSession();

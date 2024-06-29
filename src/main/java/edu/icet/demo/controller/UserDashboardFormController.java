@@ -6,7 +6,8 @@ import javafx.scene.input.MouseEvent;
 import java.io.IOException;
 
 public class UserDashboardFormController {
-    public void logOutBtnOnMouseClick(MouseEvent mouseEvent) {
+    public void logOutBtnOnMouseClick(MouseEvent mouseEvent) throws IOException {
+        SceneSwitchController.getInstance().switchScene(mouseEvent,"login-form.fxml");
     }
 
     public void supplierBtnOnAction(ActionEvent actionEvent) throws IOException {
@@ -21,6 +22,7 @@ public class UserDashboardFormController {
         SceneSwitchController.getInstance().switchScene(actionEvent,"manage-customer-form.fxml");
     }
 
-    public void orderBtnOnAction(ActionEvent actionEvent) {
+    public void orderBtnOnAction(ActionEvent actionEvent) throws IOException {
+        SceneSwitchController.getInstance().switchScene(actionEvent,"manage-order-form.fxml");
     }
 }

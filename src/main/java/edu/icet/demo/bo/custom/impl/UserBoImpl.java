@@ -52,6 +52,15 @@ public class UserBoImpl implements UserBo {
         });
         return userList;
     }
+    public ObservableList<String> getAllUserIds(){
+        ObservableList<UserEntity> list = userDaoImpl.searchAll();
+        ObservableList<String> userList =FXCollections.observableArrayList();
+
+        list.forEach(userEntity -> {
+            userList.add(userEntity.getId());
+        });
+        return userList;
+    }
     public boolean updateUser(User user){
         UserEntity userEntity = new UserEntity();
         userEntity.setId(user.getId());

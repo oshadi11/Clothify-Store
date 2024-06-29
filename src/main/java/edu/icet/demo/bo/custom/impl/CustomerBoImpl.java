@@ -48,8 +48,8 @@ public class CustomerBoImpl implements CustomerBo {
         return customerList;
     }
 
-    public ObservableList<String> getAllCustomerIds(String id) {
-        ObservableList<CustomerEntity> customerEntities = customerDaoImpl.searchAllByEmpId(id);
+    public ObservableList<String> getAllCustomerIds() {
+        ObservableList<CustomerEntity> customerEntities = customerDaoImpl.searchAll();
         ObservableList<String> idList = FXCollections.observableArrayList();
 
         customerEntities.forEach(customerEntity -> {

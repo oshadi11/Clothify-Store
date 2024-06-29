@@ -16,3 +16,6 @@
     -fx-text-fill: white; 
     -fx-font-weight: bold; 
 }
+.place-order-pane{
+    -fx-background-color: #aecbeb;    
+}

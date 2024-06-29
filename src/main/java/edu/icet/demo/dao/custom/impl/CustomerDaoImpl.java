@@ -13,6 +13,11 @@ import java.util.List;
 public class CustomerDaoImpl implements CustomerDao {
 
     @Override
+    public CustomerEntity search(String s) {
+        return null;
+    }
+
+    @Override
     public ObservableList<CustomerEntity> searchAll(){
         Session session = HibernateUtil.getSession();
         session.getTransaction().begin();

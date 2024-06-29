@@ -1,8 +1,5 @@
-package edu.icet.demo.entity;
+package edu.icet.demo.model;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Id;
-import jakarta.persistence.Table;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
@@ -14,13 +11,11 @@ import java.util.Date;
 @Getter
 @AllArgsConstructor
 @NoArgsConstructor
-@Entity(name = "order")
-@Table(name = "order")
-public class OrderDetailEntity {
-
-    @Id
+public class Order {
     private String id;
     private String cusId;
-    private double amount;
+    private String status;
+    private Date date;
+    private Double amount;
     private String empId;
 }

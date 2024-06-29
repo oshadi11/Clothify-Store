@@ -1,71 +1,72 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(Ù÷½œ8É™ü„2J$90c833d4-34a8-4540-b786-50fbc473f893
+java:S3740 "/Provide the parametrized type for this generic.(Ù÷½œ8É™ü„2J$f76777a7-6f89-42be-8a7f-b22cb7ca9c33
 r
-java:S3740"/Provide the parametrized type for this generic.(ï§–8É™ü„2J$4ad57723-577c-4007-9ad4-de9b3f285859
+java:S3740!"/Provide the parametrized type for this generic.(ï§–8É™ü„2J$b684faa0-ab22-4f3a-a594-a40ad9b1e38a
 r
-java:S3740"/Provide the parametrized type for this generic.(ıåö·8É™ü„2J$d99fb0f3-0b21-4a2d-80e7-78c2ba509859
+java:S3740""/Provide the parametrized type for this generic.(ıåö·8É™ü„2J$93f8b740-fab7-4b0d-becb-c25b97d9bf75
 r
-java:S3740"/Provide the parametrized type for this generic.(×µĞç8É™ü„2J$84855fba-0035-482d-8d8a-fb9e45c438c2
+java:S3740#"/Provide the parametrized type for this generic.(×µĞç8É™ü„2J$d554a512-7e63-4706-b2ac-cf2beb8758e7
 r
-java:S3740 "/Provide the parametrized type for this generic.(Íâ…±8É™ü„2J$7d7d5d41-7473-41bf-88e0-84982563c5b9
+java:S3740$"/Provide the parametrized type for this generic.(Íâ…±8É™ü„2J$3558f186-46a9-4b94-b5c2-e31721e3f3b2
 w
-java:S3740!"/Provide the parametrized type for this generic.(À×Ø†ÿÿÿÿÿ8É™ü„2J$f5fa5a92-9038-44e0-ac22-f5f2db0d737f
+java:S3740%"/Provide the parametrized type for this generic.(À×Ø†ÿÿÿÿÿ8É™ü„2J$722ef919-e93f-447c-a69f-7143f021e554
 w
-java:S3740""/Provide the parametrized type for this generic.(šó¯”ùÿÿÿÿ8É™ü„2J$97d088d8-aecf-4236-8eed-5acef51f9cb1
+java:S3740&"/Provide the parametrized type for this generic.(šó¯”ùÿÿÿÿ8É™ü„2J$b9ddd0c6-812a-4197-b715-a0d4b65e15e1
 r
-java:S3740#"/Provide the parametrized type for this generic.(êÆö™8É™ü„2J$d7f2b762-b93e-4e14-9076-c33f643c1b3f
+java:S3740'"/Provide the parametrized type for this generic.(êÆö™8É™ü„2J$6f9bad0b-b8d6-4b53-b5aa-5f58d235ae44
 q
-java:S3740$"/Provide the parametrized type for this generic.(½„¢u8É™ü„2J$406eca00-fbec-474d-9efa-7619e14ae147
+java:S3740("/Provide the parametrized type for this generic.(½„¢u8É™ü„2J$1158c065-202c-4b6b-931c-6f89a339c610
 q
-java:S3740&"/Provide the parametrized type for this generic.(¢Š
-8É™ü„2J$755a0985-2c61-43c1-9248-22e472cba77b
+java:S3740*"/Provide the parametrized type for this generic.(¢Š
+8É™ü„2J$88739589-83e5-410a-84aa-376a4f9f37cb
 p
-java:S1604^"(Make this anonymous inner class a lambda(äøµûÿÿÿÿ8Ê™ü„2J$376c2678-e53b-44a1-8b66-daa7d871d528
+java:S1604c"(Make this anonymous inner class a lambda(äøµûÿÿÿÿ8Ê™ü„2J$bc129a1c-115a-475c-9b53-59eae08449da
 Ÿ
-java:S1488a"\Immediately return this expression instead of assigning it to the temporary variable "cell".(ıÌ…ª8Ë™ü„2J$3a36e51d-fd60-4991-89fc-e38d4b43aa71
+java:S1488f"\Immediately return this expression instead of assigning it to the temporary variable "cell".(ıÌ…ª8Ë™ü„2J$5e0e1b0e-3c72-4693-8572-58e6751faf0f
  
-java:S1104"XMake productIdTxt a static final constant or non-public and provide accessors if needed.(úÁÖ¦ıÿÿÿÿ8Ì™ü„2J$9f9050ec-5d27-4ef7-ae43-a66afc7e7f1d
+java:S1104"XMake productIdTxt a static final constant or non-public and provide accessors if needed.(úÁÖ¦ıÿÿÿÿ8Ì™ü„2J$e5e914bd-8f59-48ab-bc95-da9e83fdad6f
 ›
-java:S1104"YMake productQtyTxt a static final constant or non-public and provide accessors if needed.(ÛÓ+8Ì™ü„2J$693f4fec-2c84-4229-903f-c35340734bce
+java:S1104"YMake productQtyTxt a static final constant or non-public and provide accessors if needed.(ÛÓ+8Ì™ü„2J$23592bb2-0006-4f8e-8efa-1ec2ad9a5e48
 
-java:S1104"ZMake productNameTxt a static final constant or non-public and provide accessors if needed.(Å¢ÁÃ8Í™ü„2J$e30bcc80-156e-4cae-a041-20be902e4111
+java:S1104"ZMake productNameTxt a static final constant or non-public and provide accessors if needed.(Å¢ÁÃ8Í™ü„2J$5b333c06-ee4f-4255-acca-725d30f69d5f
 ¡
-java:S1104"YMake addProductBtn a static final constant or non-public and provide accessors if needed.(€ïÜşÿÿÿÿ8Í™ü„2J$d1375823-d72e-446f-888d-7ca96c95cd7d
+java:S1104"YMake addProductBtn a static final constant or non-public and provide accessors if needed.(€ïÜşÿÿÿÿ8Í™ü„2J$9b1974bd-cc9a-4b0d-b9b0-ced33b633ddd
 ›
-java:S1104"XMake productTable a static final constant or non-public and provide accessors if needed.(Ù÷½œ8Í™ü„2J$3697852e-935b-4fba-abec-437c6ced8509
+java:S1104 "XMake productTable a static final constant or non-public and provide accessors if needed.(Ù÷½œ8Í™ü„2J$17ab6025-38ab-4045-9b47-dcd70a773a22
  
-java:S1104"]Make productNameColumn a static final constant or non-public and provide accessors if needed.(ï§–8Í™ü„2J$b66a0c3c-0bf8-4b61-a4fa-b1a01b7c287b
+java:S1104!"]Make productNameColumn a static final constant or non-public and provide accessors if needed.(ï§–8Í™ü„2J$2a74f21e-36bb-4dca-8738-6cf4abad2ab4
 
-java:S1104"ZMake prductIdColumn a static final constant or non-public and provide accessors if needed.(ıåö·8Í™ü„2J$d0b41abe-f4c1-41bf-bede-297aeb620bf2
+java:S1104""ZMake prductIdColumn a static final constant or non-public and provide accessors if needed.(ıåö·8Í™ü„2J$9033eae5-f63a-45cc-a4db-05c69cb53801
 ˜
-java:S1104"UMake qtyColumn a static final constant or non-public and provide accessors if needed.(×µĞç8Í™ü„2J$288627a3-09f9-43a5-aebd-f6f0af81c7a9
+java:S1104#"UMake qtyColumn a static final constant or non-public and provide accessors if needed.(×µĞç8Í™ü„2J$a0f2e9b2-8762-4011-99b3-e28a08a4131a
 
-java:S1104 "ZMake categoryColumn a static final constant or non-public and provide accessors if needed.(Íâ…±8Í™ü„2J$d42ba0fb-dd61-40fb-b657-5265fab80a18
+java:S1104$"ZMake categoryColumn a static final constant or non-public and provide accessors if needed.(Íâ…±8Í™ü„2J$73fd32f2-5d89-4983-87de-59835ba367aa
 Ÿ
-java:S1104!"WMake priceColumn a static final constant or non-public and provide accessors if needed.(À×Ø†ÿÿÿÿÿ8Í™ü„2J$ad0f4d72-e2af-4ecd-83f9-f7417fb1d6a0
+java:S1104%"WMake priceColumn a static final constant or non-public and provide accessors if needed.(À×Ø†ÿÿÿÿÿ8Í™ü„2J$09e31ad7-6ba3-42d3-a924-a08fbb6834c8
 ¤
-java:S1104""\Make supplierIdColumn a static final constant or non-public and provide accessors if needed.(šó¯”ùÿÿÿÿ8Í™ü„2J$e77b5487-7a68-422a-aaf8-ded7643bac20
+java:S1104&"\Make supplierIdColumn a static final constant or non-public and provide accessors if needed.(šó¯”ùÿÿÿÿ8Í™ü„2J$b4506b46-0e61-4205-a913-ac99f3e42e7b
 ›
-java:S1104#"XMake actionColumn a static final constant or non-public and provide accessors if needed.(êÆö™8Í™ü„2J$797f0771-6753-490f-ac5c-e5c1cf55df68
+java:S1104'"XMake actionColumn a static final constant or non-public and provide accessors if needed.(êÆö™8Í™ü„2J$76e99a83-79d9-45ea-92a7-09d50a8f389c
  
-java:S1104$"^Make productCategoryCmb a static final constant or non-public and provide accessors if needed.(½„¢u8Í™ü„2J$62356f89-05e6-4820-92cd-f0e7f0e26298
+java:S1104("^Make productCategoryCmb a static final constant or non-public and provide accessors if needed.(½„¢u8Í™ü„2J$d218ef0e-fc49-4344-bc81-0a06da878c16
 ›
-java:S1104%"XMake proudctPrice a static final constant or non-public and provide accessors if needed.(…Ö¬œ8Í™ü„2J$654ceb80-4a3a-46ba-8875-44c445c57d35
+java:S1104)"XMake proudctPrice a static final constant or non-public and provide accessors if needed.(…Ö¬œ8Í™ü„2J$c9317b84-3049-46d3-9848-933630adbc8c
 ›
-java:S1104&"YMake SupplierIdCmb a static final constant or non-public and provide accessors if needed.(¢Š
-8Í™ü„2J$238bf1e0-2199-45b8-adbe-c925912df846
+java:S1104*"YMake SupplierIdCmb a static final constant or non-public and provide accessors if needed.(¢Š
+8Í™ü„2J$08e8c802-c1e7-42e1-897b-3ffa02056c6d
 
-java:S1104'"VMake updateBtn2 a static final constant or non-public and provide accessors if needed.(¹‘äçûÿÿÿÿ8Í™ü„2J$b7146740-fc7d-4f53-ac3b-29e8f4f440bc
-™	java:S116&"XRename this field "SupplierIdCmb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Š
-8˜šü„2J$0e605c58-0bf3-4f38-82f3-e3e2c6780a5f
-Ä
-java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªå¨Ò8™šü„2J$b98ddbaf-9fad-4ee7-96f1-f4f2f29fff0b
+java:S1104+"VMake updateBtn2 a static final constant or non-public and provide accessors if needed.(¹‘äçûÿÿÿÿ8Í™ü„2J$3d8a084a-2717-46b5-8e98-b094c0b0e456
+™	java:S116*"XRename this field "SupplierIdCmb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Š
+8˜šü„2J$30a282d6-5db6-419c-a5b8-72ddd02aaa74
 z
-java:S11720"2Remove this unused method parameter "actionEvent".(‚¸“Ÿüÿÿÿÿ8¤šü„2J$4d3e7f03-c195-4c88-96db-33decb70bda2
+java:S11725"2Remove this unused method parameter "actionEvent".(‚¸“Ÿüÿÿÿÿ8¤šü„2J$c439e3af-71fa-4182-a731-25f19fe47774
 ¡
-java:S1171f"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ªšü„2J$76d82e0f-c635-4960-bb10-81b7a15dab7d
+java:S1171k"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8ªšü„2J$93174d5b-acdb-4ddc-9eaa-b16589f6aeef
 u
-java:S1172œ"2Remove this unused method parameter "actionEvent".(³ú•W8³šü„2J$19c1b77f-020f-463d-8168-5bf867d720ad
+java:S1172¡"2Remove this unused method parameter "actionEvent".(³ú•W8³šü„2J$73a41093-8e0d-4f63-88f9-15bbf8164ab4
+‹
+java:S1128"HRemove this unused import 'edu.icet.demo.bo.custom.impl.CustomerBoImpl'.(¡Ñ»È8êµµ˜…2J$e28e35cb-050c-489d-9f6c-f300d050e2ad
 |
-java:S1128"9Remove this unused import 'edu.icet.demo.model.Customer'.(¨¨Ñ¯8œ•ü„2J$14bcbe20-4ef5-4ba3-b687-7c18d3052b96
+java:S1128
+"9Remove this unused import 'edu.icet.demo.model.Customer'.(¨¨Ñ¯8œ•ü„2J$bc42b3e0-cab1-4d51-a675-3234ce560696

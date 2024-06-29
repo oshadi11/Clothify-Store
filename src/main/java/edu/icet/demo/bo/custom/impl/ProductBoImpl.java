@@ -68,6 +68,9 @@ public class ProductBoImpl implements ProductBo {
         return productDaoImpl.searchAllIds();
     }
 
-
+    public Product getProductById(String id) {
+        ProductEntity productEntity = productDaoImpl.search(id);
+        return new ObjectMapper().convertValue(productEntity, Product.class);
+    }
 
 }
