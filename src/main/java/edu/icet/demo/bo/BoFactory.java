@@ -22,7 +22,7 @@ public class BoFactory {
             case PRODUCT:
                 return (T)new ProductBoImpl();
             case CART:
-                return (T)new PlaceOderBoImpl();
+                return (T)new PlaceOrderBoImpl();
             case ORDER:
                 return (T) new OrderBoImpl();
         }

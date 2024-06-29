@@ -5,7 +5,6 @@ import com.jfoenix.controls.JFXComboBox;
 import com.jfoenix.controls.JFXTextField;
 import edu.icet.demo.bo.BoFactory;
 import edu.icet.demo.bo.custom.impl.*;
-import edu.icet.demo.model.Cart;
 import edu.icet.demo.model.Order;
 import edu.icet.demo.model.OrderHasItem;
 import edu.icet.demo.model.Product;
@@ -41,7 +40,7 @@ public class ManageOrderFormController implements Initializable {
     CustomerBoImpl customerBoImpl = BoFactory.getInstance().getBo(BoType.CUSTOMER);
     UserBoImpl userBoImpl = BoFactory.getInstance().getBo(BoType.USER);
     ProductBoImpl productBoImpl = BoFactory.getInstance().getBo(BoType.PRODUCT);
-    PlaceOderBoImpl placeOderBoImpl = BoFactory.getInstance().getBo(BoType.CART);
+    PlaceOrderBoImpl placeOderBoImpl = BoFactory.getInstance().getBo(BoType.CART);
     OrderBoImpl orderBoImpl = BoFactory.getInstance().getBo(BoType.ORDER);
 
     double totalCost;
